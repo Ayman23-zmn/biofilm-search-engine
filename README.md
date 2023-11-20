@@ -1,9 +1,11 @@
 # Biofilm-search-engine
-## Follow the code as the numbered sequence: 
+## Follow the code numerically: 
 
-1.  **PubSearch.py** - 
-2.  **xml_to_txt.py** - 
-3.  **generate_dataset.ipynb** -
-4.  **app.py** -
+1.  **PubSearch.py** - Script to download raw xml files  
+2.  **xml_to_txt.py** - Script to convert raw xml to txt files.
+3.  **generate_dataset.ipynb** - Run the first cell to concatenate separate files into a single data frame. 
+4.  **app.py** - Application frontend script
+
+## 
 
 **App link** : [link](https://biofilm-search.streamlit.app/)
