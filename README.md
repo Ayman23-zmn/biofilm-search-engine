@@ -8,4 +8,10 @@
 
 ## 
 
+## Dataset description: 
+
+1.  **dataset.csv** - Dataframe for embedding training  
+2.  **embeddings_165.csv** - Embedded dataset
+##
+
 **App link** : [link](https://biofilm-search.streamlit.app/)
